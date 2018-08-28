@@ -5,7 +5,7 @@ Mình (Thuận Hồ) tài trợ mỗi bạn 20K cho cá cược :D (thắng ăn 
 
 Kèo: Hàn Quốc chấp VN 3/4 trái, 90 phút.
 
-Để tham gia, các bạn contribute và pull request vào repo này theo cú pháp bên dưới
+Để tham gia, các bạn contribute, edit file readme.md và pull request vào repo này theo cú pháp bên dưới
 
 Cú Pháp: {Tên Bạn}: {Mã Đội}. Trong đó: {Mã Đội}: VN/HQ
 
