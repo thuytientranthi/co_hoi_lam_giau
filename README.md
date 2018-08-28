@@ -1,4 +1,4 @@
-# Bà con nhanh tay tôi nhanh mắt các bạn ơi :) 
+﻿# Bà con nhanh tay tôi nhanh mắt các bạn ơi :) 
 # Được ăn cả ngã về không nào
 
 Mình (Thuận Hồ) tài trợ mỗi bạn 20K cho cá cược :D (thắng ăn tiền, thua không mất gì cả)
@@ -45,3 +45,5 @@ Khoa: VN
 Lan: VN
 
 Hoang: VN
+
+TrinhTC: HQ
