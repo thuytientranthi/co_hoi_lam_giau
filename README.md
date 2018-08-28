@@ -39,3 +39,5 @@ Bạn đứng HQ, HQ thắng 1 quả -> bạn nhận được 30K (20K tiền v�
 Bạn đứng HQ, HQ hòa hoặc thua -> chúc may mắn lần sau =))
 
 # Danh sách
+
+Khoa: VN
