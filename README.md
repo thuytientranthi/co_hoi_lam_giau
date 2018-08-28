@@ -41,4 +41,5 @@ Bạn đứng HQ, HQ hòa hoặc thua -> chúc may mắn lần sau =))
 # Danh sách
 
 Khoa: VN
+
 Lan: VN
